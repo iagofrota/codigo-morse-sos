@@ -7,6 +7,7 @@ void setup() {
 void loop() {
   piscarLedRapido();
   piscarLedDevagar();
+  delay(5000);
 }
 
 void iniciarPortas() {
